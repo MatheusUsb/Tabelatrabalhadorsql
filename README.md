@@ -1,4 +1,5 @@
 #Tabelatrabalhadorsql
+
 #Exemplo
 
 CREATE TABLE trabalhador (
