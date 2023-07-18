@@ -7,3 +7,5 @@ CREATE TABLE trabalhador (
     sexo CHAR(1),
     idade INT
 );
+
+#fim
